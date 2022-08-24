@@ -1,2 +1,4 @@
-# TV-Show-Search-App
+# TV Show Search App
 Requesting show images from tvmaze.com API 
+
+![](Demo.gif)
